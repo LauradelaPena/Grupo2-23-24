@@ -15,9 +15,10 @@
             <td width="30%">
                 <h2>Menú</h2>
                 <ul>
-                    <li><a href="#procesadores">Procesadores</a></li>
-                    <li><a href="#tarjetas-graficas">Tarjetas Gráficas</a></li>
-                    <li><a href="#almacenamiento">Almacenamiento</a></li>
+                    <li><a href="#Primer Apartado">Primer Apartado</a></li>
+                    <li><a href="#Segundo Apartado">Segundo Apartado</a></li>
+                    <li><a href="#Tercer Apartad">Tercer Apartado</a></li>
+                    <li><a href="#Cuarto Apartado">Cuarto Apartado</a></li>
                 </ul>
             </td>
             <td>
