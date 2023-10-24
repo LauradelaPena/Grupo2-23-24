@@ -1,26 +1,40 @@
-# Grupo2-23-24
-<Html></Html>
-</table>
-	
-	<table width="80%" align="center">
-
-	<tr>
-    <td rowspan="2" width="33%"><IMG align="left" SRC="images/remco.webp" WIDTH="320" HEIGHT="480"></td>
-	<td></td>
-	</tr>
-	<tr>
-	<td><h4></h4> 
-		<li></li>
-    	   	 <li></li>
-		<h4>2021</h4> 
-		 <li></li>
-		 <li></li>
-		<h4></h4> 
-		 <li></li>
-		 <li></li>
-		 <h4>2023</h4>
-		 <li></td></tr>
-	</table>
-	
-  
-</Html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Sitio de Hardware</title>
+</head>
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <td colspan="2" align="center">
+                <h1>Mi Sitio de Hardware</h1>
+            </td>
+        </tr>
+        <tr>
+            <td width="30%">
+                <h2>Menú</h2>
+                <ul>
+                    <li><a href="#procesadores">Procesadores</a></li>
+                    <li><a href="#tarjetas-graficas">Tarjetas Gráficas</a></li>
+                    <li><a href="#almacenamiento">Almacenamiento</a></li>
+                </ul>
+            </td>
+            <td>
+                <h2 id="procesadores">Procesadores</h2>
+                <p>En esta sección hablaremos sobre los procesadores y sus especificaciones.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h2 id="tarjetas-graficas">Tarjetas Gráficas</h2>
+                <p>Descubre las últimas tarjetas gráficas y sus capacidades para juegos y diseño.</p>
+            </td>
+            <td>
+                <h2 id="almacenamiento">Almacenamiento</h2>
+                <p>Aprende sobre diferentes tipos de unidades de almacenamiento, como discos duros y SSDs.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
