@@ -10,6 +10,16 @@
             <td colspan="2" align="center">
                 <h1>Mi Sitio de Hardware</h1>
             </td>
+			<td>
+			  <h1>Selecciona una opción:</h1>
+    <select>
+        <option value="opcion1">Opción 1</option>
+        <option value="opcion2">Opción 2</option>
+        <option value="opcion3">Opción 3</option>
+        <option value="opcion4">Opción 4</option>
+        <option value="opcion5">Opción 5</option>
+    </select>
+	</TD>
         </tr>
         <tr>
             <td width="30%">
@@ -39,13 +49,6 @@
             </td>
         </tr>
     </table>
-    <h1>Selecciona una opción:</h1>
-    <select>
-        <option value="opcion1">Opción 1</option>
-        <option value="opcion2">Opción 2</option>
-        <option value="opcion3">Opción 3</option>
-        <option value="opcion4">Opción 4</option>
-        <option value="opcion5">Opción 5</option>
-    </select>
+  
 </body>
 </html>
