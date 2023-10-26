@@ -51,7 +51,7 @@
     </table>
   
 </body>
-<head>
+
 <!-- PARTE DE TRISTÁN (DISCOS MAGNÉTICOS) -->
     <meta charset="UTF-8">
     <title>Disco Duro Magnético</title>
@@ -79,8 +79,7 @@
             height: auto;
         }
     </style>
-</head>
-<body>
+
     <div class="container">
         <div class="text">
             <h1>¿Cómo funciona un disco duro magnético?</h1>
