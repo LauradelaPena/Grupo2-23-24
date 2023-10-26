@@ -53,6 +53,7 @@
 </body>
 <html>
 
+<body>
 <!-- PARTE DE TRISTÁN (DISCOS MAGNÉTICOS) -->
     <meta charset="UTF-8">
     <title>Disco Duro Magnético</title>
@@ -120,7 +121,6 @@ Sin embargo los HDD (discos duros) tienen un problema: al tener partes mecánica
             <img src="disco-duro.jpg" alt="Foto disco duro magnético">
         </div>
     </div>
-
-
+</body>
 
 </html>
